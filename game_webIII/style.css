@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(127, 127, 127);
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+.botao{
+   padding: 30px;
+    
+}
+.table {
+    text-align: center;    
+    width: 60%;    
+    margin: auto; 
+}
+
+
